@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+import countries from './_files/items.json';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
